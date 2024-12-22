@@ -52,5 +52,6 @@ NER Output: John → B-PER, New → B-LOC, York → I-LOC</br>
 
 This pipeline ensures that the NER system can process raw text, classify entities, and map predictions back to meaningful outputs.
 
-## [2] HUGGINGFACE TEXT SUMMARIZER
+### [2] HUGGINGFACE TEXT SUMMARIZER
 * https://huggingface.co/docs/transformers/en/tasks/summarization
+* https://huggingface.co/google/pegasus-large
