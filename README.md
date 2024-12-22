@@ -56,3 +56,6 @@ This pipeline ensures that the NER system can process raw text, classify entitie
 * https://huggingface.co/docs/transformers/en/tasks/summarization
 * https://huggingface.co/google/pegasus-large
 * https://huggingface.co/google/pegasus-cnn_dailymail
+* Seq2seq model
+  ![image](https://github.com/user-attachments/assets/73cf5d8a-c116-4ecb-8439-665cbfbe7686)
+
