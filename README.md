@@ -55,3 +55,4 @@ This pipeline ensures that the NER system can process raw text, classify entitie
 ### [2] HUGGINGFACE TEXT SUMMARIZER
 * https://huggingface.co/docs/transformers/en/tasks/summarization
 * https://huggingface.co/google/pegasus-large
+* https://huggingface.co/google/pegasus-cnn_dailymail
