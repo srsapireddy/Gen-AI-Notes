@@ -60,3 +60,6 @@ This pipeline ensures that the NER system can process raw text, classify entitie
   ![image](https://github.com/user-attachments/assets/73cf5d8a-c116-4ecb-8439-665cbfbe7686)
 * https://huggingface.co/docs/datasets/en/upload_dataset
 
+### [3] HUGGINGFACE LANGUAGE TRANSLATOR
+* https://huggingface.co/Helsinki-NLP/opus-mt-en-hi
+* Different Models Available: Google - T5, Facebook - M2M100, Google Cloud Translation API, Tune AI, Amazon Comprehend
