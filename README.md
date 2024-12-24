@@ -63,3 +63,6 @@ This pipeline ensures that the NER system can process raw text, classify entitie
 ### [3] HUGGINGFACE LANGUAGE TRANSLATOR
 * https://huggingface.co/Helsinki-NLP/opus-mt-en-hi
 * Different Models Available: Google - T5, Facebook - M2M100, Google Cloud Translation API, Tune AI, Amazon Comprehend
+
+### [4] APIs
+* Open AI API, Gemini API, HuggingFace API
