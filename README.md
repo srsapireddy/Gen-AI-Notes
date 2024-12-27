@@ -98,6 +98,9 @@ Understanding:
 14. Text Splitting
 15. LLama index vs Langchain
 
+* https://pypi.org/project/langchain/
+* https://pypi.org/project/llama-index/
+
 
 
 
