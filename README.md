@@ -80,6 +80,7 @@ Topics:
 4. Chains
 5. Memory
 6. Agent
+   
 Understanding:
 1. Full Stack Dev
 2. Prompting
