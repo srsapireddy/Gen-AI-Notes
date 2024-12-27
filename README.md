@@ -66,3 +66,38 @@ This pipeline ensures that the NER system can process raw text, classify entitie
 
 ### [4] APIs
 * Open AI API, Gemini API, HuggingFace API
+
+### [5] LangChain
+* https://python.langchain.com/docs/introduction/
+* https://github.com/langchain-ai/langchain
+* https://github.com/langchain-ai/langchain/blob/master/cookbook/custom_multi_action_agent.ipynb
+* https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_modal_RAG.ipynb
+* https://github.com/langchain-ai/langchain/blob/master/cookbook/LLaMA2_sql_chat.ipynb
+Topics:
+1. Model input/output
+2. Chat - Models: Integrating different chat APIs
+3. Data Connectors
+4. Chains
+5. Memory
+6. Agent
+Understanding:
+1. Full Stack Dev
+2. Prompting
+3. Chains of Prompt/ Chains of thoughts
+4. Tools, agent, initializing the agent
+5. Custom agent: Getting data from 3rd party API
+6. Token limit handling
+7. Deep dive into memory
+8. RGA System with VectorDB
+9. LLM Application Development Landscape
+10. LLM Application in Production
+11. Langchain Hub
+12. Langserve: Serving the application in the form API. For the evaluation of LLMs
+13. langsmith
+14. Text Splitting
+15. LLama index vs Langchain
+
+
+
+
+
