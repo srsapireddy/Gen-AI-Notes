@@ -72,7 +72,7 @@ This pipeline ensures that the NER system can process raw text, classify entitie
 * https://github.com/langchain-ai/langchain
 * https://github.com/langchain-ai/langchain/blob/master/cookbook/custom_multi_action_agent.ipynb
 * https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_modal_RAG.ipynb
-* https://github.com/langchain-ai/langchain/blob/master/cookbook/LLaMA2_sql_chat.ipynb
+* https://github.com/langchain-ai/langchain/blob/master/cookbook/LLaMA2_sql_chat.ipynb </br>
 Topics:
 1. Model input/output
 2. Chat - Models: Integrating different chat APIs
