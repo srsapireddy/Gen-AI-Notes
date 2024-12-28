@@ -100,6 +100,16 @@ Understanding:
 
 * https://pypi.org/project/langchain/
 * https://pypi.org/project/llama-index/
+* https://pypi.org/project/python-dotenv/
+
+### HuggingFace Models
+* https://huggingface.co/google/gemma-7b
+* https://huggingface.co/google/gemma-2-2b
+* https://huggingface.co/google/flan-t5-large
+* https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
+* https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1
+
+
 
 
 
