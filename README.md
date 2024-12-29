@@ -113,6 +113,10 @@ Understanding:
 * https://python.langchain.com/docs/introduction/
 * Langchain: To load a particular model with some functionality to build the application on top of it like a framework.
 * https://huggingface.co/google/flan-t5-xl
+* SERP API: GOOGLE SEARCH API: https://serpapi.com/
+
+### Gradient AI RAG
+* https://www.gradient.ai/
 
 
 
