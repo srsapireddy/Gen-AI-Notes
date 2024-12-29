@@ -109,6 +109,11 @@ Understanding:
 * https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
 * https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1
 
+[6] Langchain
+* https://python.langchain.com/docs/introduction/
+* Langchain: To load a particular model with some functionality to build the application on top of it like a framework.
+* https://huggingface.co/google/flan-t5-xl
+
 
 
 
