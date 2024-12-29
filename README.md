@@ -114,6 +114,7 @@ Understanding:
 * Langchain: To load a particular model with some functionality to build the application on top of it like a framework.
 * https://huggingface.co/google/flan-t5-xl
 * SERP API: GOOGLE SEARCH API: https://serpapi.com/
+* Document Loader Langchain: https://python.langchain.com/v0.1/docs/modules/data_connection/document_loaders/
 
 ### Gradient AI RAG
 * https://www.gradient.ai/
