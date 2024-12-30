@@ -119,6 +119,13 @@ Understanding:
 ### Gradient AI RAG
 * https://www.gradient.ai/
 
+[7] Vector Database
+* https://base64.guru/
+* Image Feature Extraction - Transformer-based embedding: https://huggingface.co/models?pipeline_tag=image-feature-extraction&sort=trending
+* Audio Transformer: https://huggingface.co/models?pipeline_tag=voice-activity-detection&sort=trending
+* Open AI Embedding Models: https://platform.openai.com/docs/models#embeddings
+* RAG: https://www.youtube.com/watch?v=qN_2fnOPY-M
+
 
 
 
