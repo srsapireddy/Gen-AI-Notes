@@ -125,6 +125,7 @@ Understanding:
 * Audio Transformer: https://huggingface.co/models?pipeline_tag=voice-activity-detection&sort=trending
 * Open AI Embedding Models: https://platform.openai.com/docs/models#embeddings
 * RAG: https://www.youtube.com/watch?v=qN_2fnOPY-M
+* https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
 
 
 
